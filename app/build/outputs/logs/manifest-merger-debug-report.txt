@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\f19b619d02bd931ffe6ef3523552d788\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1fed02245207b84d44661f2faea692d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d5c6f457652c9f931559bad5381f6223\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0617a20a4edca4944be735760824466a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f255ba2d976c2ecf47b1142d5aafa3e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2ade5975c9e537f7070a1ea9ac1c55e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9ba00ed62197331d857e881606a8a8a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b02446ce37453ccef678b1bc58aa5826\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a31f70a5418a166dd88b8e6a2ca1369a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\29c8aca7d12f6bcec26b03c77de48d61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a2c745d9f61b50294281b33ddcf8eff1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\413734df05121138eadef710c32e7f96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c2fdb720a3f2f419de0c5fe41cd7a281\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d3d8800a9be0c6500c2f321c1e01a0ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d49ce25bb24e3a85cf688247286158d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\499aa4c3185a1bd5e30b087f7755af68\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04221fcf13a28623067cd1a5f0bc4050\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\f19b619d02bd931ffe6ef3523552d788\AndroidManifest.xml:11:5-67
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\f19b619d02bd931ffe6ef3523552d788\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\f19b619d02bd931ffe6ef3523552d788\AndroidManifest.xml:12:5-79
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\f19b619d02bd931ffe6ef3523552d788\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:12:5-32:19
+	android:supportsRtl
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:17:9-70
+activity#com.amazonaws.demo.polly.PollyActivity
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:configChanges
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:21:13-48
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:20:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.amazonaws.demo.polly.MainActivity
+ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:29:9-30:43
+	android:name
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml:30:13-41
+uses-sdk
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\f19b619d02bd931ffe6ef3523552d788\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\f19b619d02bd931ffe6ef3523552d788\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1fed02245207b84d44661f2faea692d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1fed02245207b84d44661f2faea692d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d5c6f457652c9f931559bad5381f6223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d5c6f457652c9f931559bad5381f6223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0617a20a4edca4944be735760824466a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0617a20a4edca4944be735760824466a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f255ba2d976c2ecf47b1142d5aafa3e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f255ba2d976c2ecf47b1142d5aafa3e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2ade5975c9e537f7070a1ea9ac1c55e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2ade5975c9e537f7070a1ea9ac1c55e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9ba00ed62197331d857e881606a8a8a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9ba00ed62197331d857e881606a8a8a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b02446ce37453ccef678b1bc58aa5826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b02446ce37453ccef678b1bc58aa5826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a31f70a5418a166dd88b8e6a2ca1369a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a31f70a5418a166dd88b8e6a2ca1369a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\29c8aca7d12f6bcec26b03c77de48d61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\29c8aca7d12f6bcec26b03c77de48d61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a2c745d9f61b50294281b33ddcf8eff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a2c745d9f61b50294281b33ddcf8eff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\413734df05121138eadef710c32e7f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\413734df05121138eadef710c32e7f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c2fdb720a3f2f419de0c5fe41cd7a281\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c2fdb720a3f2f419de0c5fe41cd7a281\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d3d8800a9be0c6500c2f321c1e01a0ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d3d8800a9be0c6500c2f321c1e01a0ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d49ce25bb24e3a85cf688247286158d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d49ce25bb24e3a85cf688247286158d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\499aa4c3185a1bd5e30b087f7755af68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\499aa4c3185a1bd5e30b087f7755af68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04221fcf13a28623067cd1a5f0bc4050\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\fafoy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04221fcf13a28623067cd1a5f0bc4050\AndroidManifest.xml:20:5-44
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\workspace\DemoGo_Devicefarm\app\src\main\AndroidManifest.xml
