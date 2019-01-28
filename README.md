@@ -1,6 +1,6 @@
-Running PollyDemo Sample
+Running Demogo
 =============================================
-This sample demonstrates how to use Amazon Polly client library on Android.  This application uses AWS Cognito for authentication with Amazon Polly.
+This sample demonstrates how to use Amazon Polly client SDK on Android.  This application uses AWS Cognito for authentication with Amazon Polly.
 
 ## Requirements
 
@@ -20,7 +20,7 @@ This sample demonstrates how to use Amazon Polly client library on Android.  Thi
 
 1. This sample requires Cognito to authorize to Amazon Polly in order to access device shadows.  Use Amazon Cognito to create a new identity pool:
 	1. In the [Amazon Cognito Console](https://console.aws.amazon.com/cognito/), press the `Manage Federated Identities` button and on the resulting page press the `Create new identity pool` button.
-	
+
 	1. Give your identity pool a name and ensure that `Enable access to unauthenticated identities` under the `Unauthenticated identities` section is checked.  This allows the sample application to assume the unauthenticated role associated with this identity pool.  Press the `Create Pool` button to create your identity pool.
 
 		**Important**: see note below on unauthenticated user access.
@@ -34,12 +34,12 @@ This sample demonstrates how to use Amazon Polly client library on Android.  Thi
 
 		**Note**: to keep this example simple it makes use of unauthenticated users in the identity pool.  This can be used for getting started and prototypes but unauthenticated users should typically only be given read-only permissions in production applications.  More information on Cognito identity pools including the Cognito developer guide can be found [here](http://aws.amazon.com/cognito/).
 
-1. Open the PollyDemo project.
+1. Open the Demo project.
 
 1. Open `MainActivity.java` and update the following constants with the appropriate values:
 
     ```
-    COGNITO_POOL_ID = "CHANGE_ME";
+    COGNITO_POOL_ID = "Your Cognito_Pool_Id";
     MY_REGION = Regions.US_EAST_1;
     ```
 
