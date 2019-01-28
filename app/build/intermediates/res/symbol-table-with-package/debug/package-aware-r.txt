@@ -762,7 +762,6 @@ id all
 id always
 id async
 id auto
-id awsGo
 id beginning
 id beyondGo
 id blocking
@@ -790,6 +789,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id device_id_label
 id disableHome
 id edit_query
 id end
@@ -821,6 +821,7 @@ id line1
 id line3
 id listMode
 id list_item
+id log_in_label
 id main
 id masked
 id media_actions
@@ -874,6 +875,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signIn
 id smallLabel
 id snackbar_action
 id snackbar_text

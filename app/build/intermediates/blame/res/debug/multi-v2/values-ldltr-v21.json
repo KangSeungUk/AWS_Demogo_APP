@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\dev\\workspace\\DemoGo_Devicefarm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "/Users/kseunguk/Documents/dev/demogo/demogo_app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\fafoy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0617a20a4edca4944be735760824466a\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "/Users/kseunguk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/de6be50f66ca875dafd60ce1b3549c5e/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

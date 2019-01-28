@@ -10,6 +10,29 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context="com.amazonaws.demo.polly.PollyActivity">
+
+    <!--login label-->
+    <TextView
+        android:id="@+id/log_in_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text=""
+        android:visibility="gone" />
+
+    <!--device label-->
+    <TextView
+        android:id="@+id/device_id_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text=""
+        android:visibility="gone" />
+
     <TextView
         android:id="@+id/text_view_id"
         android:layout_width="wrap_content"
@@ -51,22 +74,9 @@
         android:layout_alignParentEnd="true"
         android:layout_marginTop="74dp"
         android:gravity="center"/>
-`
-    <ImageButton
-        android:src="@android:drawable/ic_menu_close_clear_cancel"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/defaultTextButton"
-        android:background="@android:color/transparent"
-        android:visibility="gone"
-        android:layout_alignBottom="@+id/sampleText"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:paddingBottom="8dp"
-        android:paddingRight="4dp"/>
 
     <Button
-        android:id="@+id/awsGo"
+        android:id="@+id/signIn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/sampleText"

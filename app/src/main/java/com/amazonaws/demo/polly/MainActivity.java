@@ -64,7 +64,7 @@ public class MainActivity extends Activity {
     private static final String COGNITO_POOL_ID = "[Your Cognito_Pool_ID]";
 
     // Region of Amazon Polly.
-    private static final Regions MY_REGION = [Your Regions]; //ex) seoul : Regions.AP_NORTHEAST_2
+    private static final Regions MY_REGION = Regions.DEFAULT_REGION; //ex) seoul : Regions.AP_NORTHEAST_2
 
     // Initializing to Activity
     public static final int sub = 1001;
